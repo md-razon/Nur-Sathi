@@ -1,0 +1,6 @@
+{
+  "name": "নূর সাথী",
+  "description": "বাংলাদেশের মুসলমানদের জন্য নামাজের সময়সূচি, স্মার্ট তসবিহ ও রিমাইন্ডার অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

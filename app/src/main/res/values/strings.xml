@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">নূর সাথী</string>
+    <string name="app_subtitle">আপনার প্রতিদিনের নামাজ ও ইবাদতের সাথী</string>
+    <string name="notification_channel_name">নামাজের সময় ও আজান</string>
+    <string name="notification_channel_desc">পাঁচ ওয়াক্ত নামাজের সময়সূচি ও পূর্ব-সতর্কতা রিমাইন্ডার</string>
+    <string name="nav_home">হোম</string>
+    <string name="nav_tasbih">তসবিহ</string>
+    <string name="nav_prayer">নামাজ</string>
+    <string name="nav_settings">সেটিংস</string>
+    <string name="greeting_salam">আসসালামু আলাইকুম</string>
+    <string name="next_prayer_label">পরবর্তী নামাজ</string>
+    <string name="prayer_schedule_title">নামাজের সময়সূচি</string>
+    <string name="see_all">সকল দেখুন</string>
+    <string name="fajr">ফজর</string>
+    <string name="dhuhr">যোহর</string>
+    <string name="asr">আসর</string>
+    <string name="maghrib">মাগরিব</string>
+    <string name="isha">এশা</string>
+    <string name="sunrise">সূর্যোদয়</string>
+</resources>

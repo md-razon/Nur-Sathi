@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Subtle golden circular halo ring inside 66dp safe zone -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,23 A31,31 0 1,1 53.99,23 Z"
+        android:strokeWidth="1.6"
+        android:strokeColor="#55D4AF37" />
+
+    <!-- Bold golden crescent moon centered inside safe zone -->
+    <path
+        android:fillColor="#FFE6C665"
+        android:pathData="M56.5,27 C43.5,27 33,37.5 33,50.5 C33,63.5 43.5,74 56.5,74 C63.2,74 69.2,71.2 73.5,66.7 C69.8,68.8 65.5,70 60.9,70 C49.1,70 39.5,60.4 39.5,48.6 C39.5,38.8 46.1,30.5 55.1,28.1 C55.6,27.4 56.1,27 56.5,27 Z" />
+
+    <!-- Radiant 8-point Islamic star inside crescent -->
+    <path
+        android:fillColor="#FFFAF3E0"
+        android:pathData="M64,39 L65.8,43.2 L70,45 L65.8,46.8 L64,51 L62.2,46.8 L58,45 L62.2,43.2 Z" />
+    <path
+        android:fillColor="#FFD4AF37"
+        android:pathData="M64,41 L65.2,43.8 L68,45 L65.2,46.2 L64,49 L62.8,46.2 L60,45 L62.8,43.8 Z" />
+
+    <!-- Minimalist mosque dome & minaret silhouette at bottom of safe zone -->
+    <path
+        android:fillColor="#FFD4AF37"
+        android:pathData="M37,77 L71,77 L71,74 L67,74 L67,65 L65.5,61 L64,65 L64,74 L61,74 C61,69.5 58,66 54,64.5 C50,66 47,69.5 47,74 L44,74 L44,65 L42.5,61 L41,65 L41,74 L37,74 Z" />
+</vector>
