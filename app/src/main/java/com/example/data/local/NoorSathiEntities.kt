@@ -1,12 +1,9 @@
 package com.example.data.local
 
-import androidx.room.Entity
-import androidx.room.PrimaryKey
 import com.example.domain.DailyPrayerTimes
 
-@Entity(tableName = "prayer_schedule")
 data class PrayerScheduleEntity(
-    @PrimaryKey val dateIso: String,
+    val dateIso: String,
     val districtId: String,
     val calculationMethodId: String,
     val asrMethodId: String,
@@ -29,9 +26,8 @@ data class PrayerScheduleEntity(
     )
 }
 
-@Entity(tableName = "tasbih_history")
 data class TasbihHistoryEntity(
-    @PrimaryKey val dateIso: String,
+    val dateIso: String,
     val totalCount: Int,
     val completedRounds: Int,
     val lastUpdatedMillis: Long,
